@@ -1,0 +1,1 @@
+# Functia Manna-Pnueli
